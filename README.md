@@ -1,15 +1,23 @@
 # Landing page - Hotel fazenda
 
 
-> Landing page para agrupar links de redes sociais.
+> Landing page para fazer a reserva no hotel fazenda.
 
+### Ajustes e melhorias
 
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Responsivo
+- [x] Submit personalizado
+- [x] Redes sociais 
+- [x] Maps incorporado
+- [ ] Efeitos css
 
 ## 💻 Pré-requisitos
 
 
-* HTML5,CSS.
-* Conhecimentos básics.
+* HTML5,CSS
+* Conhecimentos básicos
 
 
 
@@ -33,5 +41,3 @@
 
 ## 😄 Landing page<br>
 Todas as imagens e textos foram usadas exclusivamente para fins estudantis.
-
-
